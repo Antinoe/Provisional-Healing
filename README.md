@@ -1,4 +1,4 @@
-# Provisional-Healing
+# Provisional Healing
 It's nice that a group of people took it upon themselves to create Hunger and Thirst systems for Terraria, but I was dissatisfied by the fact that Food and Water are nothing more than a means of sustaining those systems.
 
 So I made this, Provisional Healing, an addon that changes the way you consume Food and Water.
